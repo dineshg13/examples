@@ -1,8 +1,14 @@
+# DEPRECATION NOTICE
+
+These examples are largely out of date and should no longer be considered
+examples of Ember best practices.
+
+---
+
 # Ember.js Examples
 
 These apps are designed to illustrate features and best practices of
-Ember.js. You can see them running at
-[http://www.emberjs.com/examples/][1].
+Ember.js.
 
 ## Todos
 
